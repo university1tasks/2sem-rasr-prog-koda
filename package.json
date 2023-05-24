@@ -1,0 +1,23 @@
+{
+  "name": "2sem-rasr-prog-koda",
+  "version": "1.0.0",
+  "description": "Tasks",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/university1tasks/2sem-rasr-prog-koda.git"
+  },
+  "keywords": [],
+  "author": "mds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/university1tasks/2sem-rasr-prog-koda/issues"
+  },
+  "homepage": "https://github.com/university1tasks/2sem-rasr-prog-koda#readme",
+  "dependencies": {
+    "@types/node": "^20.2.3",
+    "typescript": "^5.0.4"
+  }
+}
