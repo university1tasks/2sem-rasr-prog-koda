@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/university1tasks/2sem-rasr-prog-koda#readme",
   "dependencies": {
+    "@types/lodash": "^4.14.194",
     "@types/node": "^20.2.3",
+    "lodash": "^4.17.21",
     "typescript": "^5.0.4"
   }
 }
